@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "slug": "greenthumb",
+  "name": "Greenthumb",
+  "version": "0.2.2",
+  "description": "Crop tracker for your farms. Set up farms and areas (Outside, Greenhouse, Inside), press Planted, Watered and Harvested at your planters, and Greenthumb does the timing: a countdown on every planter, and a chat line plus an on-screen notice when a watering window opens, an hour before it closes, and when the crop is ready. Go to farm points the compass at it. Open it with the plant icon, /greenthumb or its key in the Add-Ons window.",
+  "author": "Kronic",
+  "files": [
+    "greenthumb.lua"
+  ],
+  "icon": "icon.png",
+  "readme": "README.md",
+  "min_api_version": 25
+}
